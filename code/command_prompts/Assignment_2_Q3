@@ -1,0 +1,8 @@
+%% Iitialise the global variables %%
+Global
+%% The sinusodial light and dark oscillation %%
+GGsine
+%% press any button to clear the graph fo the next question %%
+pause
+close
+

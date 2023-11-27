@@ -1,0 +1,14 @@
+%% Iitialise the global variables %%
+Global
+%% The light case %%
+Light_dark
+2.2
+%% press any button to clear the graph fo the next question %%
+pause
+close
+%% The dark case %%
+Light_dark
+1.6
+%% press any button to clear the graph fo the next question %%
+pause
+

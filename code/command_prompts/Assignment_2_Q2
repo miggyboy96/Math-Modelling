@@ -1,0 +1,8 @@
+%% Initialise the global variables %%
+Global
+%% The square alternating light and dark case %%
+GGsquare
+%% press any button to clear the graph fo the next question %%
+pause
+close
+

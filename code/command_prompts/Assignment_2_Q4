@@ -1,0 +1,16 @@
+%% Question 4 part one, 24 hour periodicity for vs = [2.1,8] %%
+GGsinelong
+1
+pause
+close
+%% 72 hour periodicity for vs = [9.7,10.7] %%
+GGsinelong
+2
+pause
+close
+%% 96 hour periodicity for vs = [19,20] %%
+GGsinelong
+3
+pause 
+close
+
